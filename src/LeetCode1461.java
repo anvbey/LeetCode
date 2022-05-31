@@ -1,3 +1,4 @@
+//LeetCode 1461
 class Solution {
     public boolean hasAllCodes(String S, int K) {
         int len = S.length(), count = 1 << K;
